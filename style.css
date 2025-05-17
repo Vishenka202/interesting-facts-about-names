@@ -1,0 +1,32 @@
+.first {
+    display: block;
+    float: left;
+    width: 900px;
+    height: 450px;
+}
+
+.second {
+    display: block;
+    float:right;
+}
+
+.third {
+    display: block;
+    float:left;
+}
+
+.fourth {
+    display: block;
+    float: left;
+}
+
+.fifth {
+    display: block;
+    float: left;
+}
+
+.Button {
+    border: 3px solid red;
+    padding: 5px;
+    text-decoration: none;
+}
